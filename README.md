@@ -1,3 +1,3 @@
 ## Danashala-Simulation
 
-agent based simulation
+pindapatha simulation from react
